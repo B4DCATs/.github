@@ -1,7 +1,7 @@
 # 🐈 B4DCATs Manifesto
 
 ## Language
-[🇺🇸](profile/README.md) | [🇷🇺](profile/languages/RU/README.md)
+[🇺🇸](README.md) | [🇷🇺](languages/RU/README.md)
 
 ## Who We Are
 We are **B4DCATs**, a community of developers, engineers, and enthusiasts  
