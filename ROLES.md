@@ -1,74 +1,74 @@
 # 🐈 B4DCATs Roles
 
-Этот документ описывает роли в сообществе **B4DCATs**, их ответственность и уровни доступа.  
-Наша цель — дать каждому возможность внести вклад и понимать, как устроена команда.  
+## Language
+[🇺🇸](ROLES.md) | [🇷🇺](languages/RU/ROLES.md)
+
+This document describes roles in the **B4DCATs** community, their responsibilities, and access levels.  
+Our goal is to give everyone the opportunity to contribute and understand how the team is structured.  
 
 ---
 
-## 🎩 Ядро сообщества
+## 🎩 Community Core
 
 ### Founder / Lead
-- Определяет стратегию, философию и общее направление.
-- Финальное слово в спорах и стратегических решениях.
-- Представляет B4DCATs вовне (GitHub, Telegram, конференции).
+- Defines strategy, philosophy, and general direction.
+- Final say in disputes and strategic decisions.
+- Represents B4DCATs externally (GitHub, Telegram, conferences).
 
 ### Core Maintainers
-- Ведут отдельные проекты (например, `b4d-cli-chat`, `b4d-utils`).
-- Проверяют Pull Requests, принимают решения по архитектуре.
-- Отвечают за качество и развитие конкретных репозиториев.
-- Формируют «правую руку» Founder-а.
+- Lead individual projects (e.g., `b4d-cli-chat`, `b4d-utils`).
+- Review Pull Requests, make architectural decisions.
+- Responsible for quality and development of specific repositories.
+- Form the "right hand" of the Founder.
 
 ---
 
 ## 🛠 Contributors
 
 ### Active Contributors
-- Часто делают PR, помогают в обсуждениях, развивают идеи.
-- Участвуют в формировании будущих фич.
+- Frequently make PRs, help in discussions, develop ideas.
+- Participate in shaping future features.
 
 ### Casual Contributors
-- Делают 1–2 PR или issue, помогают время от времени.
-- Могут вырасти в Active Contributors или Maintainers.
+- Make 1–2 PRs or issues, help occasionally.
+- Can grow into Active Contributors or Maintainers.
 
 ---
 
-## 👥 Сообщество
+## 👥 Community
 
 ### Members
-- Участники чатов (Telegram, Discord, IRC).
-- Поддерживают философию, участвуют в обсуждениях.
+- Chat participants (Telegram, Discord, IRC).
+- Support the philosophy, participate in discussions.
 
 ### Testers / Users
-- Используют инструменты, находят баги, оставляют обратную связь.
+- Use tools, find bugs, provide feedback.
 
 ---
 
-## 📢 Специальные роли
+## 📢 Special Roles
 
 ### Evangelists
-- Распространяют идеи B4DCATs (статьи, посты, презентации).
-- Помогают привлекать новых участников.
+- Spread B4DCATs ideas (articles, posts, presentations).
+- Help attract new participants.
 
 ### Designers / Creators
-- Работают над визуалом (лого, скриншоты, ASCII-арт, оформление README).
-- Делают проекты более привлекательными.
+- Work on visuals (logos, screenshots, ASCII art, README design).
+- Make projects more attractive.
 
 ### Infra Masters
-- Отвечают за серверы, CI/CD и инфраструктуру.
-- Поддерживают доступность сервисов (IRC, API, боты).
+- Responsible for servers, CI/CD, and infrastructure.
+- Maintain service availability (IRC, API, bots).
 
 ---
 
-## 🔑 Уровни доступа
-- **Owner** → Founder (полный доступ ко всей организации).  
-- **Maintainers** → полный доступ к конкретным проектам.  
-- **Contributors** → делают PR, создают issues, обсуждают.  
-- **Community** → участвуют в чатах и дискуссиях.  
+## 🔑 Access Levels
+- **Owner** → Founder (full access to entire organization).  
+- **Maintainers** → full access to specific projects.  
+- **Contributors** → make PRs, create issues, discuss.  
+- **Community** → participate in chats and discussions.  
 
 ---
 
-
-```
-⚡ Любой участник может со временем вырасти из **Member → Contributor → Maintainer**.  
-B4DCATs — это комьюнити, где ценят вклад, креатив и свободу.
-```
+⚡ Any participant can grow over time from **Member → Contributor → Maintainer**.  
+B4DCATs is a community that values contribution, creativity, and freedom.
